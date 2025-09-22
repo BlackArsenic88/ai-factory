@@ -12,7 +12,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 
 ![alt text](ml_workflow.png)
 
-   # Table of Contents  📖 
+# Table of Contents  📖 
 - [Features](#-features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
@@ -74,7 +74,7 @@ Python 3.10+
 - Customer Churn Prediction: Reduce revenue leakage by identifying at-risk clients.
 - Fraud Detection: Real-time monitoring of financial transactions with anomaly detection.
 - [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
-- Large Language Models. Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps. 
+- [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
 - Natural Language Processing. Classify text and user sentiment on product/service reviews. 
 - Predictions: Forecast demand and supply capacity to eliminate DOWNTIME and reduce waste. 
 - Recommendation Systems: Personalized content and product suggestions for websites, mobile apps, and e-commerce.
