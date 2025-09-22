@@ -1,12 +1,12 @@
 Project Neo
 
-# AI/ML Software Engineering Portfolio
-This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Language Models (LM)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible AI/ML/LM solutions to drive business value and revenue.
+# AI/ML/LLM Software Engineering Portfolio
+This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Large Language Models (LLMs)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible AI/ML/LM solutions to drive business value and revenue.
 
 # Value Proposition 🪙
 - Quality. Ensuring high model accuracy, robustness, and reliability. 
-- Reduced Costs. Efficient model design, optimized infrastructure, and smart data usage lower analysis, file storage, and maintenance expenses, making AI solutions more scalable and sustainable.
-- Saved Time. Automation of repetitive/required tasks, faster model training/evaluation cycles, and streamlined product deployment pipelines. 
+- Reduced Costs. Efficient model design, optimized infrastructure, and smart data usage lowers analysis, file storage, and maintenance expenses, making AI solutions more scalable and sustainable.
+- Saved Time. Automate repetitive/required tasks and streamline product research & development. 
 - Simplicity. Plain language, clear systems architecture with modular design, and intuitive interfaces reduce complexity. 
 - Information. Data and insights from models enable better decision-making, discovery of patterns, and a differentiated competitive advantage.
 
@@ -43,12 +43,13 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - Naive Bayes Classifier 
   - Random Forests 
   - Dimensionality Reduction (PCA)
-  - Custom AI/ model implementations tailored to enterprise use cases  
+  - Custom AI/ML/LLM model implementations tailored to enterprise use cases  
   - Deep learning (NLP, computer vision, time-series models)  
 
 - **Evaluation Functions**:  
   - Accuracy, precision, recall, F1
-  - Business-aligned OKRs/KPIs for ROI, churn, and engagement  
+  - Business-aligned OKRs/KPIs
+  - Fitness functions
   - Margin 
   - MSE, squared error, R^2
   - Posterior probabilities 
@@ -81,7 +82,7 @@ Python 3.10+
 - Sports: Predict the outcome for a tennis player based on their playing habits.
 
 ## License ⚖️ 
-This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
+This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, comercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact  📬
 - Are you ready for production-ready pipelines and infrastructure to evolve your business?
@@ -99,7 +100,6 @@ For enterprise consulting, partnerships, or custom AI/ML software engineering so
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
-
 
 
 
