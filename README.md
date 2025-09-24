@@ -1,6 +1,6 @@
 Project Neo
 
-# AI/ML/LLM Software Engineering Portfolio
+# AI/ML/LLM Software Engineering
 This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Large Language Models (LLMs)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible AI/ML/LM solutions to drive business value and revenue.
 
 # Value Proposition 🪙
@@ -68,21 +68,23 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 # Prerequisites
 Python 3.10+
 
-# AI/ML Enterprise Use Cases 📈
+# AI/ML/LLM Enterprise Use Cases 📈
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of equities for the highest Sharpe ratios. 
 - Classification: Image classification of similar images. 
 - Click Through Rates: UX/UI design features correlated with increased customer engagement and advertising click through rates. 
 - Customer Churn Prediction: Reduce revenue leakage by identifying at-risk clients.
+- Earnings Per Share (EPS). Neural network tensor analysis of 10K financial statements, annual reports, return on equity (ROE), and return on invested capital (ROIC) to predict EPS.
+- [Financial Wellness Scorecard](https://blackarsenic88.github.io/financial-wellness/): Comprehensive personal financial planning record for risk-management, short-term planning, and long-term planning that predicts retirement readiness while providing insights, guidance, and recommendations. 
 - Fraud Detection: Real-time monitoring of financial transactions with anomaly detection.
 - [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
-- Natural Language Processing. Classify text and user sentiment on product/service reviews. 
+- Natural Language Processing. Classify text to determine user sentiment in a product/service reviews. 
 - Predictions: Forecast demand and supply capacity to eliminate DOWNTIME and reduce waste. 
 - Recommendation Systems: Personalized content and product suggestions for websites, mobile apps, and e-commerce.
 - Sports: Predict the outcome for a tennis player based on their playing habits.
 
 ## License ⚖️ 
-This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, comercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
+This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact  📬
 - Are you ready for production-ready pipelines and infrastructure to evolve your business?
