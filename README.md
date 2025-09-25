@@ -10,17 +10,18 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 - Simplicity. Plain language, clear systems architecture with modular design, and intuitive interfaces reduce complexity. 
 - Information. Data and insights from models enable better decision-making, discovery of patterns, and a differentiated competitive advantage.
 
-![alt text](ml_workflow.png)
+![Machine Learning Workflow](ml_workflow.png)
+[Image courtesy of Codecademy](https://www.codecademy.com)
 
 # Table of Contents  📖 
-- [Features](#-features)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
-- [Prerequisites](#-prerequisites)
-- [Enterprise Use Cases](#-enterprise-use-cases)
-- [License](#-license)
-- [Contact](#-contact)
-- [Acknowledgements](#-acknowledgements)
+- [Prerequisites](#prerequisites)
+- [Enterprise Use Cases](#enterprise-use-cases)
+- [License](#license)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
 # Features✨
 - **Data Pipelines**:  
@@ -68,7 +69,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 # Prerequisites
 Python 3.10+
 
-# AI/ML/LLM Enterprise Use Cases 📈
+# Enterprise Use Cases 📈
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of equities for the highest Sharpe ratios. 
 - Classification: Image classification of similar images. 
 - Click Through Rates: UX/UI design features correlated with increased customer engagement and advertising click through rates. 
@@ -78,34 +79,31 @@ Python 3.10+
 - Fraud Detection: Real-time monitoring of financial transactions with anomaly detection.
 - [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
-- Natural Language Processing. Classify text to determine user sentiment in a product/service reviews. 
-- Predictions: Forecast demand and supply capacity to eliminate DOWNTIME and reduce waste. 
+- Natural Language Processing. Classify text to determine user sentiment in product/service reviews. 
 - Recommendation Systems: Personalized content and product suggestions for websites, mobile apps, and e-commerce.
 - Sports: Predict the outcome for a tennis player based on their playing habits.
+- [Subscription Services](https://blackarsenic88.github.io/engagement/): Streaming platforms and content creators can leverage data-driven insights such as listen time, watch time, views, likes, shares, and other engagement metrics to anticipate subscriber growth, optimize marketing spend, and improve retention strategies.  
+- Supply & Demand: Forecast capacity to eliminate DOWNTIME and reduce waste. 
 
-## License ⚖️ 
+# License ⚖️ 
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact  📬
 - Are you ready for production-ready pipelines and infrastructure to evolve your business?
 - Looking for customizable modules that can be adapted to specific business problems?
 - Do you need proven scalability and revenue impact, all aligned with enterprise-grade standards, KPIs/OKRs, and real-world use cases? 
-For enterprise consulting, partnerships, or custom AI/ML software engineering solutions:
+- For enterprise consulting, partnerships, or custom AI/ML software engineering solutions contact:
 - Name: Abraham Doe
 - Email: abrahamdoe@gmail.com
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
 ## Acknowledgements 🙏
-- Codecademy
+- Dr. Pedro Domingos, Dr. Christian Mayer, Dr. Gary Calore, Asabeneh Yetaveh  
 - Scikit-learn for robust AI/ML utilities
 - UC Irvine, Kaggle, and other datasets for training data
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
-
-
-
-
 
 
 
