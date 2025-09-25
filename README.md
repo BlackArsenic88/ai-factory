@@ -4,9 +4,9 @@ Project Neo
 This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Large Language Models (LLMs)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible AI/ML/LM solutions to drive business value and revenue.
 
 # Value Proposition 🪙
-- Quality. Ensuring high model accuracy, robustness, and reliability. 
+- Quality. Ensures high model accuracy, robustness, and reliability. 
 - Reduced Costs. Efficient model design, optimized infrastructure, and smart data usage lowers analysis, file storage, and maintenance expenses, making AI solutions more scalable and sustainable.
-- Saved Time. Automate repetitive/required tasks and streamline product research & development. 
+- Saved Time. Automate repetitive/required tasks. Streamline product research & development. 
 - Simplicity. Plain language, clear systems architecture with modular design, and intuitive interfaces reduce complexity. 
 - Information. Data and insights from models enable better decision-making, discovery of patterns, and a differentiated competitive advantage.
 
@@ -55,7 +55,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - Posterior probabilities 
 
 - **Infrastructure**:  
-  - Modular Python architecture with reusable components  
+  - Modular architecture with reusable components  
   - CI/CD readiness (GitHub)  
   - Cloud-agnostic design (Azure, AWS, GC)  
 
@@ -80,7 +80,7 @@ Python 3.10+
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
 - Natural Language Processing. Classify text to determine user sentiment in product/service reviews. 
 - Recommendation Systems: Personalized content and product suggestions for websites, mobile apps, and e-commerce.
-- Sports: Predict the outcome for a tennis player based on their playing habits.
+- [Sports Metrics](https://blackarsenic88.github.io/fantasy-sports/): Predict the outcome for an athlete based on their playing habits. 
 - [Subscription Services](https://blackarsenic88.github.io/engagement/): Streaming platforms and content creators can leverage data-driven insights such as listen time, watch time, views, likes, shares, and other engagement metrics to anticipate subscriber growth, optimize marketing spend, and improve retention strategies.  
 - Supply & Demand: Forecast capacity to eliminate DOWNTIME and reduce waste. 
 
@@ -103,6 +103,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
 
 
 
