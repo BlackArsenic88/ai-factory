@@ -13,7 +13,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 ![Machine Learning Workflow](ml_workflow.png)
 [Image courtesy of Codecademy](https://www.codecademy.com)
 
-# Table of Contents  📖 
+# Table of Contents📖 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [How to Use](#how-to-use)
@@ -60,7 +60,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - CI/CD readiness (GitHub)  
   - Cloud-agnostic design (Azure, AWS, GC)  
 
-# Tech Stack 🛠
+# Tech Stack🛠
 - **Languages**: Python, Bash
 - **Libraries**: NumPy, Pandas, PyTorch, Scikit-learn, TensorFlow, XGBoost
 - **DevOps**: GitHub 
@@ -69,7 +69,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 # Prerequisites
 Python 3.10+
 
-# Enterprise Use Cases 📈
+# Enterprise Use Cases📈
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of equities for the highest Sharpe ratios. 
 - Classification: Image classification of similar images. 
 - Click Through Rates: UX/UI design features correlated with increased customer engagement and advertising click through rates. 
@@ -85,10 +85,10 @@ Python 3.10+
 - [Subscription Services](https://blackarsenic88.github.io/engagement/): Streaming platforms and content creators can leverage data-driven insights such as listen time, watch time, views, likes, shares, and other engagement metrics to anticipate subscriber growth, optimize marketing spend, and improve retention strategies.  
 - Supply & Demand: Forecast capacity to eliminate DOWNTIME and reduce waste. 
 
-# License ⚖️ 
+# License⚖️ 
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
-# Contact  📬
+# Contact📬
 - Are you ready for production-ready pipelines and infrastructure to evolve your business?
 - Looking for customizable modules that can be adapted to specific business problems?
 - Do you need proven scalability and revenue impact, all aligned with enterprise-grade standards, KPIs/OKRs, and real-world use cases? 
@@ -97,7 +97,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Email: abrahamdoe@gmail.com
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
-## Acknowledgements 🙏
+# Acknowledgements🙏
 - Dr. Pedro Domingos, Dr. Christian Mayer, Dr. Gary Calore, Asabeneh Yetaveh  
 - Scikit-learn for robust AI/ML utilities
 - UC Irvine, Kaggle, and other datasets for training data
