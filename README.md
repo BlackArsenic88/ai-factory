@@ -18,7 +18,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 - [Tech Stack](#tech-stack)
 - [Prerequisites](#prerequisites)
 - [Enterprise Use Cases](#enterprise-use-cases)
-- [License](#license)
+- [License](license.txt)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
