@@ -16,7 +16,6 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 # Table of Contents📖 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [How to Use](#how-to-use)
 - [Prerequisites](#prerequisites)
 - [Enterprise Use Cases](#enterprise-use-cases)
 - [License](#license)
@@ -85,7 +84,7 @@ Python 3.10+
 - [Subscription Services](https://blackarsenic88.github.io/engagement/): Streaming platforms and content creators can leverage data-driven insights such as listen time, watch time, views, likes, shares, and other engagement metrics to anticipate subscriber growth, optimize marketing spend, and improve retention strategies.  
 - Supply & Demand: Forecast capacity to eliminate DOWNTIME and reduce waste. 
 
-# License⚖️ 
+# License⚖️
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact📬
