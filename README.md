@@ -75,11 +75,10 @@ Python 3.10+
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of New York Stock Exchange, Nasdaq, and S&P 500 equities with the highest Sharpe ratios.
 <!-- - Classification: Image classification of similar images. -->
 <!-- - Click Through Rates: UX/UI design features correlated with increased customer engagement and advertising click through rates. --> 
-<!-- - Customer Churn Prediction: Reduce revenue leakage by identifying at-risk clients. -->
 - Earnings Per Share (EPS). Neural network tensor analysis of 10K financial statements, annual reports, return on equity (ROE), and return on invested capital (ROIC) to predict EPS.
 - [Financial Wellness Scorecard](https://blackarsenic88.github.io/financial-wellness/): Comprehensive personal financial planning record for risk-management, short-term planning, and long-term planning that predicts retirement readiness while providing insights, guidance, and recommendations. 
 <!-- Fraud Detection: Real-time monitoring of financial transactions with anomaly detection. -->
-- [Honey Production](https://blackarsenic88.github.io/agriculture/):  Timely, accurate, and useful statistics in service of U.S. agriculture production. 
+- [Honey Production](https://blackarsenic88.github.io/agriculture/):  Accurate and useful statistics in service of U.S. agriculture production. 
 <!-- - Hospitality: Food & drink classification of nutrient density scores, powerhouse fruits and vegetables, and superfoods. --> 
 - [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
@@ -89,6 +88,7 @@ Python 3.10+
 <!-- - [Sports Metrics](https://blackarsenic88.github.io/fantasy-sports/): Predict the outcome for an athlete based on their playing habits. --> 
 <!-- - [Subscription Services](https://blackarsenic88.github.io/engagement/): Streaming platforms and content creators can leverage data-driven insights such as listen time, watch time, views, likes, shares, and other engagement metrics to anticipate subscriber growth, optimize marketing spend, and improve retention strategies. -->
 <!-- - Supply & Demand: Forecast capacity to eliminate DOWNTIME and reduce waste. -->
+- [Customer Churn Prediction](https://blackarsenic88.github.io/customer-churn/), [Social Media Customer Acquisition Costs](https://blackarsenic88.github.io/advertising/), and more!
 
 # License⚖️
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution for personal or research use, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
