@@ -78,7 +78,7 @@ Python 3.10+
 - Earnings Per Share (EPS). Neural network tensor analysis of 10K financial statements, annual reports, return on equity (ROE), and return on invested capital (ROIC) to predict EPS.
 - [Financial Wellness Scorecard](https://blackarsenic88.github.io/financial-wellness/): Comprehensive personal financial planning record for risk-management, short-term planning, and long-term planning that predicts retirement readiness while providing insights, guidance, and recommendations. 
 <!-- Fraud Detection: Real-time monitoring of financial transactions with anomaly detection. -->
-- [Honey Production](https://blackarsenic88.github.io/agriculture/):  Accurate and useful statistics in service of U.S. agriculture production. 
+- [Honey Production](https://blackarsenic88.github.io/agriculture/): Accurate statistics in service of U.S. agriculture production useful for policymakers, farmers, distributors, restaurants, and researchers.
 <!-- - Hospitality: Food & drink classification of nutrient density scores, powerhouse fruits and vegetables, and superfoods. --> 
 - [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
