@@ -80,8 +80,8 @@ Python 3.10+
 <!-- Fraud Detection: Real-time monitoring of financial transactions with anomaly detection. -->
 - [Honey Production](https://blackarsenic88.github.io/agriculture/): Accurate statistics in service of U.S. agriculture production useful for policymakers, farmers, distributors, restaurants, and researchers.
 <!-- - Hospitality: Food & drink classification of nutrient density scores, powerhouse fruits and vegetables, and superfoods. --> 
-- [Housing prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
-- [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT into your enterprise websites and mobile apps and reduce customer service costs. 
+- [Real Estate prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
+- [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT, Google Gemini, or Anthropic's Claude Opus into your enterprise websites and mobile apps and reduce customer service costs. 
 <!-- - Libraries: Classification of books, Great Books, Classics, the Canon, and Hypercanon. -->
 <!-- - Natural Language Processing: Classify text to determine user sentiment in product/service reviews and user likelihood to recommend. --> 
 <!-- - Recommendation Systems: Personalized content and product suggestions for websites, mobile apps, and e-commerce. --> 
