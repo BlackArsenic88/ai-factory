@@ -29,25 +29,28 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - Ingestion from API, JSON, and CSV endpoints  
   - Data cleaning, transformation, and feature engineering  
   - Scalable workflows for big datasets (e.g., filter, map, reduce, search, and sort functions)
-
-
+  
 - **Algorithms**:  
-  - Bayes' theorem, posterior probabilities, probabalistic inference 
+  - Graphs (Graphical Models, Bayesian Networks, Markov Chain Logic Networks), posterior probabilities, probabalistic inference 
   - Evolutionary algorithms, fitness functions, genetic search 
   - Logic, accuracy, deduction 
-  - Neural networks, gradient descent (backpropogation), squared error 
+  - Neural networks, squared error, gradient descent (backpropogation)
   - Support vector machines, margin, constrained optimization 
+  - Bayes' theorem
   - Decision Trees 
   - K-Means Clustering 
   - K-Nearest Neighbor 
   - Linear Regression 
   - Logistic Regression 
+  - Markov Chains
+  - Markov Chain Monte Carlo 
+  - Monte Carlo Simulations
   - Multiple Linear Regression 
   - Naive Bayes Classifier 
   - Random Forests 
   - Dimensionality Reduction (PCA)
   - Custom AI/ML/LLM model implementations tailored to enterprise use cases  
-  - Deep learning (NLP, computer vision, time-series models)  
+  - Deep learning (Natural Language Processing (NLP), computer vision, time-series models)  
 
 - **Evaluation Functions**:  
   - Accuracy, precision, recall, F1
@@ -100,6 +103,13 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
+
+
+
+
+
+
 
 
 
