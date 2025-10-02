@@ -76,12 +76,9 @@ Python 3.10+
 
 # Enterprise Use Cases📈
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of New York Stock Exchange, Nasdaq, and S&P 500 equities with the highest Sharpe ratios.
-- Earnings Per Share (EPS). Neural network tensor analysis of 10K financial statements, annual reports, return on equity (ROE), and return on invested capital (ROIC) to predict EPS.
-- [Financial Wellness Scorecard](https://blackarsenic88.github.io/financial-wellness/): Comprehensive personal financial planning record for risk-management, short-term planning, and long-term planning that predicts retirement readiness while providing insights, guidance, and recommendations. 
-- [Honey Production](https://blackarsenic88.github.io/agriculture/): Accurate statistics in service of U.S. agriculture production useful for policymakers, farmers, distributors, restaurants, and researchers.
-- [Real Estate Prices](https://blackarsenic88.github.io/real-estate/): Regression model to forecast fair market prices and rents. 
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT, Google Gemini, or Anthropic's Claude Opus into your enterprise websites and mobile apps to reduce customer service costs. 
-- [Customer Churn Prediction](https://blackarsenic88.github.io/customer-churn/), [Social Media Customer Acquisition Costs](https://blackarsenic88.github.io/advertising/), and more!
+- [Social Media Customer Acquisition Costs](https://blackarsenic88.github.io/advertising/). Optimize customer acquisition costs (CAC), sales conversions, and click-through rates to drive revenue and maximize return on ad spend. 
+- And more! 
 
 # License⚖️
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution for personal or research use, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
@@ -103,6 +100,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
 
 
 
