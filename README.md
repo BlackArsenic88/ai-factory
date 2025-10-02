@@ -90,6 +90,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - For enterprise consulting, partnerships, or custom AI/ML software engineering solutions contact:
 - Name: Abraham Doe
 - Email: abrahamdoe@gmail.com
+- Calendar: [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
 - LinkedIn: [Profile](https://linkedin.com/in/abraham-doe-994b3837a)
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
