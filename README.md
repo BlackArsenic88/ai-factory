@@ -89,7 +89,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Do you need proven scalability and revenue impact, all aligned with enterprise-grade standards, KPIs/OKRs, and real-world use cases? 
 - For enterprise consulting, partnerships, or custom AI/ML software engineering solutions contact:
 - Name: Abraham Doe
-- Curriculum Vitae: [CV](https://blackarsenic88.github.io/cv/)  
+- Curriculum Vitae: [CV](https://blackarsenic88.github.io/vita/)  
 - LinkedIn: [Profile](https://linkedin.com/in/abraham-doe-994b3837a)
 - Email: abrahamdoe@gmail.com
 - Calendar: [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
