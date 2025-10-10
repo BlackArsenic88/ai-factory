@@ -88,7 +88,6 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - For enterprise consulting, partnerships, or custom AI/ML software engineering solutions contact:
 - Name: Abraham Doe
 - Curriculum Vitae: [CV](https://blackarsenic88.github.io/vita/)  
-- LinkedIn: [Profile](https://linkedin.com/in/abraham-doe-994b3837a)
 - Calendar: [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
@@ -99,6 +98,7 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
 
 
 
