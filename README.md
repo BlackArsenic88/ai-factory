@@ -31,7 +31,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - Scalable workflows for big datasets (e.g., filter, map, reduce, search, and sort functions)
   
 - **Algorithms**:  
-  - Graphs (Graphical Models, Bayesian Networks, Markov Chain Logic Networks), posterior probabilities, probabalistic inference 
+  - Graphs (Bayesian Networks, Blockchain, Graphical Models, Markov Chain Logic Networks), posterior probabilities, probabalistic inference 
   - Evolutionary algorithms, fitness functions, genetic search 
   - Logic, accuracy, deduction 
   - Neural networks, squared error, gradient descent (backpropogation)
@@ -49,6 +49,7 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
   - Naive Bayes Classifier 
   - Random Forests 
   - Dimensionality Reduction (PCA)
+  - XGBoost
   - Custom AI/ML/LLM model implementations tailored to enterprise use cases  
   - Deep learning (Natural Language Processing (NLP), computer vision, time-series models)  
 
@@ -84,14 +85,10 @@ Python 3.10+
 This project is licensed under a dual license. You are free to use, modify, and distribute this software with attribution for personal or research use, but must open source modifications to the community. Integration into closed source, commercial proprietary systems requires a low cost annual subscription and license fees. See license.txt for details. 
 
 # Contact📬
-- Are you ready for production-ready pipelines and infrastructure to evolve your business?
-- Looking for customizable modules that can be adapted to specific business problems?
-- Do you need proven scalability and revenue impact, all aligned with enterprise-grade standards, KPIs/OKRs, and real-world use cases? 
 - For enterprise consulting, partnerships, or custom AI/ML software engineering solutions contact:
 - Name: Abraham Doe
 - Curriculum Vitae: [CV](https://blackarsenic88.github.io/vita/)  
 - LinkedIn: [Profile](https://linkedin.com/in/abraham-doe-994b3837a)
-- Email: abrahamdoe@gmail.com
 - Calendar: [Schedule Consultation](https://calendly.com/abrahamdoe/new-meeting)
 - GitHub: [Portfolio](https://github.com/BlackArsenic88?tab=repositories)
 
@@ -102,13 +99,6 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
-
-
-
-
-
-
-
 
 
 
