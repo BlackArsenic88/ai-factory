@@ -1,7 +1,7 @@
 Project Neo
 
 # AI/ML/LLM Software Engineering
-This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Large Language Models (LLMs)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible solutions to drive outcomes and revenue.
+This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (AI)**, **Machine Learning (ML)**, and **Large Language Models (LLMs)** through production-ready data pipelines, algorithms, evaluation functions, and scalable infrastructure. It is written in **Python** and designed to highlight practical engineering skills for **enterprise clients** seeking advanced, reproducible solutions to enhance task specific workflows and drive outcomes.
 
 ![Machine Learning Workflow](ml_workflow.png)
 [Image courtesy of Codecademy](https://www.codecademy.com)
@@ -26,40 +26,20 @@ This portfolio demonstrates end-to-end expertise in **Artificial Intelligence (A
 
 # Features✨
 - **Data Pipelines**:  
-  - Ingestion from API, JSON, and CSV endpoints  
-  - Data cleaning, transformation, and feature engineering  
   - Scalable workflows for big datasets (e.g., filter, map, reduce, search, and sort functions)
   
 - **Algorithms**:  
-  - Graphs (Bayesian Networks, Blockchain, Graphical Models, Markov Chain Logic Networks), posterior probabilities, probabalistic inference 
-  - Evolutionary algorithms, fitness functions, genetic search 
+  - Graphical models, posterior probabilities, probabilistic inference 
+  - Linear regression, multiple linear regression, logistic regression
   - Logic, accuracy, deduction 
-  - Neural networks, squared error, gradient descent (backpropogation)
+  - Neural networks, squared error, backpropogation 
   - Support vector machines, margin, constrained optimization 
-  - Bayes' theorem
-  - Decision Trees 
-  - K-Means Clustering 
-  - K-Nearest Neighbor 
-  - Linear Regression 
-  - Logistic Regression 
-  - Markov Chains
-  - Markov Chain Monte Carlo 
-  - Monte Carlo Simulations
-  - Multiple Linear Regression 
-  - Naive Bayes Classifier 
-  - Random Forests 
-  - Dimensionality Reduction (PCA)
-  - XGBoost
-  - Custom AI/ML/LLM model implementations tailored to enterprise use cases  
-  - Deep learning (Natural Language Processing (NLP), computer vision, time-series models)  
+  - XGBoost 
 
 - **Evaluation Functions**:  
   - Accuracy, precision, recall, F1
   - Business-aligned OKRs/KPIs
-  - Fitness functions
-  - Margin 
   - MSE, squared error, R^2
-  - Posterior probabilities 
 
 - **Infrastructure**:  
   - Modular architecture with reusable components  
@@ -78,7 +58,7 @@ Python 3.10+
 # Enterprise Use Cases📈
 - [Asset allocation](https://www.testandi.com): Predict the optimal weights of a diversified investment portfolio of New York Stock Exchange, Nasdaq, and S&P 500 equities with the highest Sharpe ratios.
 - [Large Language Models](https://blackarsenic88.github.io/ai-assistant/): Seamlessly integrate and fine tune AI language models like OpenAI's ChatGPT, Google Gemini, or Anthropic's Claude Opus into your enterprise websites and mobile apps to reduce customer service costs. 
-- [Social Media Customer Acquisition Costs](https://blackarsenic88.github.io/advertising/). Optimize customer acquisition costs (CAC), sales conversions, and click-through rates to drive revenue and maximize return on ad spend. 
+- [Social Media Customer Acquisition Costs](https://blackarsenic88.github.io/advertising/). Optimize customer acquisition costs (CAC), sales conversions, and click-through rates (CTR)) to drive revenue and maximize return on ad spend. 
 - And more! 
 
 # License⚖️
@@ -98,6 +78,16 @@ This project is licensed under a dual license. You are free to use, modify, and 
 - Open-source contributors and the SWE research community
 - Inspiration from industry leaders in AI/ML models
 - I am grateful. Thank you! 
+
+
+
+
+
+
+
+
+
+
 
 
 
